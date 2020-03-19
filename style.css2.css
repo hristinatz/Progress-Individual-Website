@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+
+h1 { font-family: 'Playfair Display', serif; text-align: center;
+ }
+h2 {text-align: center;
+}
+p{ font-family: 'Playfair Display', serif;
+font-family: 'Bellota', cursive;
+font-family: 'Indie Flower', cursive; text-align: center;}
